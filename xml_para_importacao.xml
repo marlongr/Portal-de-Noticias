@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<noticias>
+	<noticia>
+		<idPortal>2</idPortal>
+		<titulo>Titulo por xml na mesma pagina</titulo>
+		<data>2016-05-28</data>
+		<conteudo>Conteudo da noticia enviada por upload de xml na mesma pagina.</conteudo>
+		<link>http://xml.com.br/namesmapagina</link>
+	</noticia>
+</noticias>
